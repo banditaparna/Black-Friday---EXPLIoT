@@ -385,6 +385,11 @@ Deal ends: 6th December
 
 ## Practical Labs
 
+**EXPLIoT Store** - Learn Hardware Hacking Hands On
+https://store.expliot.io/
+Upto 40% OFF 
+Deal Ends: 4th December
+
 **Pwnedlabs** - Real-World Cloud Security Labs \
 https://pwnedlabs.io/  
 25% off all subscriptions and bootcamps with code: `BLACKFRIDAY2024`
@@ -444,6 +449,11 @@ https://www.mosse-institute.com/
 Deal ends: 29th November
 
 ## Mini Courses
+
+**EXPLIoT Academy** - Learn IoT Security from the pallet of Aseem Jakhar
+https://academy.expliot.io/
+Upto 50% OFF 
+Deal Ends: 4th December
 
 **LufSec** - Car Hacking, IoT, Web App Pentesting Mini Courses \
 https://www.lufsec.com/products/  
